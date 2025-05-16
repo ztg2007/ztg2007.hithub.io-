@@ -1,0 +1,5 @@
+<script>start("e:\\传奇\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("img","img",1,0,"0 B",1747385452,"2025/5/16 16:50:52");</script>
+<script>addRow("index.html","index.html",0,4470,"4.4 kB",1747386012,"2025/5/16 17:00:12");</script>
+<script>addRow("index.js","index.js",0,2116,"2.1 kB",1747382135,"2025/5/16 15:55:35");</script>
